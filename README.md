@@ -1,6 +1,4 @@
-# contentcreator
-
-CHAT GPT CLONE
+# CHAT GPT CLONE
 
 ## Getting Started
 
